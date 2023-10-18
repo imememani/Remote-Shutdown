@@ -16,9 +16,6 @@ using System.Threading.Tasks;
  * | If not working, ensure OpenSSH Server and Client are installed  |
  * | Make sure win10 account has password.                           |
  * ===================================================================
- * 
- * Helpful links:
- * https://www.windowscentral.com/how-enable-and-use-wake-lan-wol-windows-10
  */
 
 namespace Remote_Shutdown
